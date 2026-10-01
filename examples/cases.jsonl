@@ -1,0 +1,4 @@
+{"id": "capital-au", "input": "Capital of Australia?", "expected": "Canberra", "scorer": "contains"}
+{"id": "iso-date", "input": "Today as ISO date", "expected": "^\\d{4}-\\d{2}-\\d{2}$", "scorer": "regex"}
+{"id": "exact-yes", "input": "Answer yes or no: is water wet?", "expected": "yes", "scorer": "exact"}
+
